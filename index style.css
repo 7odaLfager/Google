@@ -1,0 +1,32 @@
+img{
+    display: block;
+    margin: 0 auto;
+    padding-top:80px ;
+}
+form{
+    text-align: center;
+   
+    }
+    input{
+       margin: auto;
+        
+        width: 700px;
+        padding: 7px;
+        display: block;
+    }
+#search{
+margin-top: 23px;
+width: auto;
+display: inline-block;
+}
+
+#href{
+    text-align: center;
+    size: 20px;
+}
+
+a{
+height: 40px;
+margin-left: 1300px;
+
+}
